@@ -31,7 +31,7 @@
 Untuk menggunakan aplikasi ini, lakukan langkah-langkah berikut:
 
 1. Buka aplikasi dengan membuka file `ApplikasiPerpus.sln` pada Visual Studio Community.
-2. Jalankan aplikasi dengan menekan tombol "Start" atau dengan menekan tombol `F5` pada keyboard.
+2. Jalankan aplikasi dengan menekan tombol `Start` atau dengan menekan tombol `F5` pada keyboard.
 3. Masukkan username dan password untuk login.
 4. Pilih salah satu menu yang tersedia untuk mengakses fitur aplikasi.
 
