@@ -51,6 +51,6 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2023 [Musketeer](https://github.com/Musketeer).<br />
-This project is [MIT](https://github.com/MusketeerHD/Aplikasi-Perpustakaan-VB/blob/main/LICENSE) licensed.
+Aplikasi ini dilisensikan di bawah lisensi MIT. Silakan merujuk pada file [LICENSE](https://github.com/MusketeerHD/Aplikasi-Perpustakaan-VB/blob/main/LICENSE) untuk informasi lebih lanjut.
 
 ***
