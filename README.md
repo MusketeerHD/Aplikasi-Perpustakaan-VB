@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<h1 align="center">![image](https://user-images.githubusercontent.com/121343844/229135845-22ab3343-e4f1-42a4-bdae-b0f603649afd.png)</h1>
+<h1 align="center">![alt text](https://user-images.githubusercontent.com/121343844/229135845-22ab3343-e4f1-42a4-bdae-b0f603649afd.png)</h1>
 
 > Aplikasi Perpustakaan VB .NET adalah sebuah aplikasi desktop untuk mengelola sistem peminjaman buku pada sebuah perpustakaan. Aplikasi ini dibuat menggunakan Visual Basic .NET dan dijalankan melalui Visual Studio Community dengan file .sln dan memiliki fitur pencarian, peminjaman, pengembalian, dan pengaturan buku dan anggota perpustakaan.
 
