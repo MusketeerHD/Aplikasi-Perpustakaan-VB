@@ -15,7 +15,7 @@
 
 ### 🏠 [Homepage](https://github.com/MusketeerHD/Aplikasi-Perpustakaan-VB)
 
-### ✨ [Demo](https://github.com/MusketeerHD/Aplikasi-Perpustakaan-VB)
+### ✨ [Demo](https://github.com/MusketeerHD/Aplikasi-Perpustakaan-VB/edit/main/README.md)
 
 ## Features :
 
