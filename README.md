@@ -48,4 +48,9 @@ Untuk menggunakan aplikasi ini, lakukan langkah-langkah berikut:
 
 Give a ⭐️ if this project helped you!
 
+## 📝 License
+
+Copyright © 2023 [Musketeer](https://github.com/Musketeer).<br />
+This project is [MIT](https://github.com/MusketeerHD/Aplikasi-Perpustakaan-VB/blob/main/LICENSE) licensed.
+
 ***
