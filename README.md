@@ -29,8 +29,7 @@
 ## How To Use
 
 ### NOTE 
-Sebelum menggunakan aplikasi ini, download & install .NET Framework 4.8 devpack
-Click here for download the [ndp48-devpack-enu](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48)
+Sebelum menggunakan aplikasi ini, download & install .NET Framework 4.8 devpack [ndp48-devpack-enu](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48)
 
 Setelah instalasi selesai, untuk menggunakan aplikasi ini, lakukan langkah-langkah berikut:
 
